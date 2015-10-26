@@ -1,0 +1,25 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2015-10-19T16:30:55+05:30
+
+====== Baadal ======
+Created Monday 19 October 2015
+
+[*] Implement storage attachment
+[*] Enable floating IP assignment
+[ ] Setup LDAP
+	[ ] Decide directory structure
+	[ ] Configure keystone to use LDAP
+	[ ] Configure webapp to authenticate using LDAP
+	[ ] Configure VMs to authenticate using LDAP
+[ ] Create user home page
+	[ ] Show list of VMs and status.
+	[ ] Enable snapshotting
+	[ ] migration
+	[ ] forceshutdown
+	[ ] reboot
+	[ ] force reboot
+	[ ] attachdisk
+	[ ] vnc console
+	[ ] security groups
+	[ ] Show usage etc in graphical form.
