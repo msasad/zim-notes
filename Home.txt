@@ -32,10 +32,16 @@ Created Monday 19 October 2015
 Monday 02 November 2015
 [*] Linkify Subnet ID in networks page and display relevant info as popup
 
+Nova Tasks
+[ ] Implement VM migrations
+[ ] Implement attaching/detaching NIC to/from VMs
+[ ] Implement adding/removing security groups to/from VMs
+
+
 Neutron Tasks
 [ ] Enable Editing Subnet Information like IP address pools, gateway address, DNS Addresses
 [ ] Implement creation of subnets
 [ ] Create security groups
-[ ] Add/Remove security group rules
+[ ] Add/Modify/Remove security group rules
 
 
