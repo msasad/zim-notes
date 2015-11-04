@@ -13,13 +13,26 @@ Created Monday 19 October 2015
 	[ ] Configure webapp to authenticate using LDAP
 	[ ] Configure VMs to authenticate using LDAP
 [ ] Create user home page
-	[ ] Show list of VMs and status.
-	[ ] Enable snapshotting
-	[ ] migration
-	[ ] forceshutdown
-	[ ] reboot
-	[ ] force reboot
+	[*] Show list of VMs and status.
+	[*] Enable snapshotting
+	[*] migration
+	[*] forceshutdown
+	[*] reboot
+	[*] force reboot
 	[ ] attachdisk
-	[ ] vnc console
-	[ ] security groups
+	[*] vnc console
+	[*] security groups
 	[ ] Show usage etc in graphical form.
+
+[ ] Logging
+	[ ] Error Logs
+	[ ] Debug Logs
+	[ ] Info Logs
+
+Monday 02 November 2015
+[*] Linkify Subnet ID in networks page and display relevant info as popup
+
+Tuesday 03 November 2015
+[ ] Enable Editing Subnet Information, like 
+[ ] Implement creation of subnets
+
