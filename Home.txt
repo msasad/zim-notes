@@ -32,8 +32,10 @@ Created Monday 19 October 2015
 Monday 02 November 2015
 [*] Linkify Subnet ID in networks page and display relevant info as popup
 
-Tuesday 03 November 2015
-[ ] Enable Editing Subnet Information, like 
+Neutron Tasks
+[ ] Enable Editing Subnet Information like IP address pools, gateway address, DNS Addresses
 [ ] Implement creation of subnets
-[ ] Testing
+[ ] Create security groups
+[ ] Add/Remove security group rules
+
 
