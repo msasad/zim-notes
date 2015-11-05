@@ -7,11 +7,7 @@ Created Monday 19 October 2015
 
 [*] Implement storage attachment
 [*] Enable floating IP assignment
-[ ] Setup LDAP
-	[ ] Decide directory structure
-	[ ] Configure keystone to use LDAP
-	[ ] Configure webapp to authenticate using LDAP
-	[ ] Configure VMs to authenticate using LDAP
+
 [ ] Create user home page
 	[*] Show list of VMs and status.
 	[*] Enable snapshotting
@@ -25,8 +21,8 @@ Created Monday 19 October 2015
 	[ ] Show usage etc in graphical form.
 
 [ ] Logging
-	[ ] Error Logs
-	[ ] Debug Logs
+	[*] Error Logs
+	[*] Debug Logs
 	[ ] Info Logs
 
 Monday 02 November 2015
@@ -36,12 +32,22 @@ Nova Tasks
 [ ] Implement VM migrations
 [ ] Implement attaching/detaching NIC to/from VMs
 [ ] Implement adding/removing security groups to/from VMs
+[ ] Restoring from snapshots
 
 
 Neutron Tasks
 [ ] Enable Editing Subnet Information like IP address pools, gateway address, DNS Addresses
-[ ] Implement creation of subnets
+[ ] Implement creation of new subnets
 [ ] Create security groups
 [ ] Add/Modify/Remove security group rules
 
 
+Keystone/LDAP Tasks
+[ ] Setup LDAP
+	[ ] Decide directory structure
+	[ ] Configure keystone to use LDAP
+	[ ] Configure webapp to authenticate using LDAP
+	[ ] Configure VMs to authenticate using LDAP
+
+Other frontend related tasks
+[ ] Input validation at all forms
