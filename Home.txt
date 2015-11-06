@@ -19,6 +19,7 @@ Created Monday 19 October 2015
 	[*] vnc console
 	[*] security groups
 	[ ] Show usage etc in graphical form.
+	[*] restoring from snapshot
 
 [ ] Logging
 	[*] Error Logs
