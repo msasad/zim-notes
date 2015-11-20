@@ -21,29 +21,32 @@ Created Monday 19 October 2015
 	[ ] Show usage etc in graphical form.
 	[*] restoring from snapshot
 
-[ ] Logging
+[*] Logging
 	[*] Error Logs
 	[*] Debug Logs
-	[ ] Info Logs
+	[*] Info Logs
 
 Monday 02 November 2015
 [*] Linkify Subnet ID in networks page and display relevant info as popup
 
-Nova Tasks
-[ ] Implement VM migrations
+Nova User Level Tasks
+[*] Restoring from snapshots
+
+Nova Admin Level Tasks
+[*] Implement VM migrations
 [ ] Implement attaching/detaching NIC to/from VMs
 [ ] Implement adding/removing security groups to/from VMs
-[ ] Restoring from snapshots
 
 
 Neutron Tasks
 [ ] Enable Editing Subnet Information like IP address pools, gateway address, DNS Addresses
-[ ] Implement creation of new subnets
+[*] Implement creation of new subnets
 [ ] Create security groups
 [ ] Add/Modify/Remove security group rules
+[ ] Automatically create corresponding security groups when creating new networks
 
 
-Keystone/LDAP Tasks
+Keystone/LDAP Tasks (Nalini/Saket)
 [ ] Setup LDAP
 	[ ] Decide directory structure
 	[ ] Configure keystone to use LDAP
@@ -52,3 +55,4 @@ Keystone/LDAP Tasks
 
 Other frontend related tasks
 [ ] Input validation at all forms
+[*] Populate "My requests" page for users
