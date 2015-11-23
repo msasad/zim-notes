@@ -36,6 +36,7 @@ Nova Admin Level Tasks
 [*] Implement VM migrations
 [ ] Implement attaching/detaching NIC to/from VMs
 [ ] Implement adding/removing security groups to/from VMs
+[ ] Changing a VM's configuration
 
 
 Neutron Tasks
@@ -44,6 +45,8 @@ Neutron Tasks
 [ ] Create security groups
 [ ] Add/Modify/Remove security group rules
 [ ] Automatically create corresponding security groups when creating new networks
+[ ] Enable attaching floating IP to an existing VM
+[ ] Enable removing floating IP from VM
 
 
 Keystone/LDAP Tasks (Nalini/Saket)
@@ -56,3 +59,4 @@ Keystone/LDAP Tasks (Nalini/Saket)
 Other frontend related tasks
 [ ] Input validation at all forms
 [*] Populate "My requests" page for users
+[ ] create GUI to resize VMs
