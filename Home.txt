@@ -36,7 +36,8 @@ Nova Admin Level Tasks
 [*] Implement VM migrations
 [ ] Implement attaching/detaching NIC to/from VMs
 [ ] Implement adding/removing security groups to/from VMs
-[ ] Changing a VM's configuration
+[*] Changing a VM's configuration
+[ ] Enable VPN console.
 
 
 Neutron Tasks
