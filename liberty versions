@@ -1,0 +1,11 @@
+For liberity devstack versions
+==============================
+
+python-novaclient(2.30.2)
+python-cinderclient(1.5.0)
+python-neutronclient(3.1.1)
+python-glanceclient(1.2.0)
+python-keystoneclient(1.7.2)
+oslo.config(2.4.0)
+oslo.i18n(2.4.0)
+pbr(1.10.0)
